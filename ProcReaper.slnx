@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ProcReaper/ProcReaper.vcxproj" Id="598287c9-9956-4ec1-a555-a1e9c7f2d715" />
+</Solution>
